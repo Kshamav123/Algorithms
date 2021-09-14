@@ -10,7 +10,7 @@ public class Main {
 		// Anagram.isAnagram("listen","silent");
 		// PrimeNo.prime();
 		// QueNo.findNum();
-		// BinarySearch.readFile();
+		BinarySearch.readFile();
 		// ExtendedAnagram.extended();
 	}
 

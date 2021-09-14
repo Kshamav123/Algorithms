@@ -42,7 +42,7 @@ public class BinarySearch {
 	public static void readFile() {
 		BufferedReader buffereader = null;
 		try {
-			buffereader = new BufferedReader(new FileReader ("/Users/kshamavidyananda/eclipse-workspace/Algorithms/src/com/algorithms/file.txt"));
+			buffereader = new BufferedReader(new FileReader ("/Users/kshamavidyananda/eclipse-workspace/Algorithms/src/com/algorithms/binarysearch.txt"));
 		} catch (FileNotFoundException e1) {
 			
 			e1.printStackTrace();
